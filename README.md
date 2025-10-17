@@ -40,9 +40,9 @@ The learning path is organized sequentially for **maximum understanding**:
 - `01-Basics/` – Python fundamentals and core concepts.
 - `02-Data-Structures/` – Learn how to work with data structures effectively.
 - `03-Functions-Modules/` – Functions, modules, packages, decorators.
-- `04-File-Handling/` – Read/write files, exceptions.
-- `05-OOP/` – Object-oriented programming concepts.
-- `06-Error-Exceptions/` – Handling errors in Python.
+- `04-Input-Output/` – Reading/writing files, string formatting, JSON.
+- `05-Errors-Exceptions/` – Handling errors and exceptions in Python.
+- `06-OOP/` – Object-oriented programming concepts.
 - `07-Advanced-Topics/` – Iterators, generators, async, threading.
 - `08-Libraries/` – Popular Python libraries for data, visualization, and web automation.
 - `09-Web-Development/` – Flask & FastAPI examples.
@@ -50,8 +50,7 @@ The learning path is organized sequentially for **maximum understanding**:
 - `11-APIs/` – REST API development and consumption.
 - `12-Testing/` – Unit testing and Pytest examples.
 - `13-Projects/` – Real-world projects to apply your skills.
-- `14-Tools-Env/` – Setup guides, environment, and tools.
-- `15-Extras/` – Tips, optimization, and interview prep.
+- `14-Extras/` – Tips, optimization, and interview prep.
 
 ---
 
