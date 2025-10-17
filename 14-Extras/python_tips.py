@@ -1,5 +1,5 @@
 """
-File: text_files.py
+File: python_tips.py
 Author: Gashaw Gedef
 Purpose: To be filled
 """
