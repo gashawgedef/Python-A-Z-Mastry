@@ -22,5 +22,5 @@ Strings can be enclosed in **single quotes** (`'...'`) or **double quotes** (`".
 print('spam eggs' )
 
 print("Paris rabbit got your back :)! Yay!")
-print(1975')
+print('1975')
 ```

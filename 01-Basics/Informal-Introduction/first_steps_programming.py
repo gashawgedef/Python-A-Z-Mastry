@@ -13,4 +13,14 @@ Purpose: To be filled
 # height =5*9
 # area =width*height
 # print(area)
+"""3.1.2 Text
+Python can manipulate text (represented by the type str, so-called “strings”) as well as numbers.
+ This includes characters like !, words like rabbit, names such as Paris, and full sentences: Got your back. or even joyful emojis like Yay! :).
+Strings can be enclosed in single quotes ('...') or double quotes ("...") with the same result."""
+print('spam eggs' )
 
+print("Paris rabbit got your back :)! Yay!")
+print('1975')
+
+print("don\'t do it")
+print("\"Welcome,\"  they said")
