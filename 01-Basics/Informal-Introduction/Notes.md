@@ -20,4 +20,7 @@ Python can manipulate text (represented by the type `str`, so-called â€œstringsâ
 Strings can be enclosed in **single quotes** (`'...'`) or **double quotes** (`"..."`) with the same result.
 ```
 print('spam eggs' )
+
+print("Paris rabbit got your back :)! Yay!")
+print(1975')
 ```
