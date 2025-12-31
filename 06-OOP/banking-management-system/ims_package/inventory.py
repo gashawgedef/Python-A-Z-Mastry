@@ -29,7 +29,6 @@ class Inventory:
 
     def get_total_value(self)->float:
         """Polymorphism: Calls get_price on each."""
-       
         return sum(item.get_price() *item.quantity for item in self._items)
 
         
