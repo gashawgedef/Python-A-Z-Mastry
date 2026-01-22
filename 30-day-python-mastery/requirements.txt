@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+aiohttp
+pytest
+pytest-cov
+requests
+beautifulsoup4
+numpy
+alembic # For migrations
+psycopg2-binary # For Postgres
+python-dotenv  # For env vars
+jwt # For auth
