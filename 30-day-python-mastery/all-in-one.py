@@ -6,7 +6,6 @@
 # lst.extend([6,7])
 # print(lst)
 # """The above code is all about list fundamentals"""
-
 lst =[1,4,6,"Gashaw",True]
 print(lst)
 
